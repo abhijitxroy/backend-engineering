@@ -4,18 +4,39 @@
 
 Initial repository foundation.
 
-Added:
+### Added
+
+#### Java Foundations
 
 - Core Java
+- Collections Framework
 - JVM
-- Spring
-- Collections
-- Design Patterns
+- Multithreading
+
+#### Spring Ecosystem
+
+- Spring Core
+- Spring Boot
+- Spring Cloud
+- Spring Security
+
+#### Backend Engineering
+
 - Database
 - API Design
-- Testing
-- Security
-- Performance
 - Messaging
 - Caching
+- Security
+- Performance
+
+#### Software Engineering
+
+- Design Patterns
+- Testing
 - Microservices
+
+#### Repository Improvements
+
+- Structured knowledge organization
+- Topic-based folder hierarchy
+- Documentation foundation
