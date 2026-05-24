@@ -1,5 +1,55 @@
 # Changelog
 
+## v1.2.0
+
+Release Focus: Backend Engineering Foundation Expansion
+
+### Added
+
+#### Backend Engineering Modules
+
+- Core Java
+- Collections
+- JVM
+- Multithreading
+- Microservices
+- Security
+- Testing
+
+#### Database Improvements
+
+- Database fundamentals cleanup
+- CAP Theorem discussions
+- Locking strategies
+- MVCC
+- Replication strategies
+- Distributed systems discussions
+- Backend production considerations
+
+#### Engineering Topics
+
+- Caching foundation
+- Performance engineering
+- API Design improvements
+- Messaging concepts
+- Production engineering discussions
+
+#### Repository Improvements
+
+- Consistent module structure
+- README standardization
+- TODO roadmap tracking
+- Naming consistency improvements
+- Content cleanup and polish
+- Cross engineering topic organization
+
+### Quality Improvements
+
+- Removed duplicate content
+- Fixed structure inconsistencies
+- Improved repository maintainability
+- Improved learning progression
+
 ## v1.1.0
 
 ### Added
