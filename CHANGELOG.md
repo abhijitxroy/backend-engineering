@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.1.0
+
+### Added
+
+- Spring interview preparation structure
+- Spring Core interview topics
+- Spring Boot interview topics
+- Spring Cloud interview topics
+- Spring Security interview topics
+
+### Improved
+
+- Spring repository organization
+- Knowledge structure
+- Documentation hierarchy
+
 ## v1.0.0
 
 Initial repository foundation.
