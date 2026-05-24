@@ -1,26 +1,3 @@
-# Backend Engineering Java
-
-Resources and notes related to backend engineering in Java.
-
-## Fundamentals
-
-Database foundation topics are maintained inside:
-
-- database-fundamentals.md
-
-Coverage includes:
-
-- Data Models
-- ACID Properties
-- Transactions
-- Isolation Levels
-- Indexing
-- Normalization
-- Query Optimization
-
-## Backend Engineering Perspective
-
-Database engineering discussions for scalable backend systems and production architecture considerations.
 # Database Fundamentals
 
 Database systems provide structured storage, retrieval and management of application data.
