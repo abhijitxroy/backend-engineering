@@ -1,5 +1,39 @@
 # Changelog
 
+## v1.3.0 (Unreleased)
+
+Release Focus: Core Java Consolidation and Learning Platform Improvements
+
+### Added
+
+#### Core Java Enhancements
+
+- SOLID principles module
+- Functional Interfaces coverage
+- Stream API enhancements
+- Optional handling discussions
+- Comparator examples and discussions
+- Practical Java implementations
+- Backend engineering considerations
+
+### Repository Improvements
+
+- Core Java example consolidation
+- Learning structure improvements
+- Repository discoverability improvements
+- Backend engineering knowledge consolidation
+
+### Migration
+
+- Consolidated reusable content from core-java repository
+- Migrated practical Java examples and learning assets
+- Improved repository organization
+
+### Quality Improvements
+
+- Core Java migration completion
+- Example organization improvements
+
 ## v1.2.0
 
 Release Focus: Backend Engineering Foundation Expansion
@@ -30,7 +64,7 @@ Release Focus: Backend Engineering Foundation Expansion
 
 - Caching foundation
 - Performance engineering
-- API Design improvements
+- API design improvements
 - Messaging concepts
 - Production engineering discussions
 

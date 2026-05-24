@@ -104,6 +104,42 @@ Common considerations:
 - Delete Complexity
 - Iteration Cost
 
+## Comparator Patterns
+
+Comparator improves flexible object ordering and collection sorting.
+
+Common approaches:
+
+- Comparator.comparing()
+- Comparator.reverseOrder()
+- Comparator.naturalOrder()
+- Custom Comparator implementations
+
+Backend discussions:
+
+- Response ordering
+- Ranking systems
+- Analytics result sorting
+- Report generation ordering
+
+## Collection Sorting Discussions
+
+Sorting approaches:
+
+- Collections.sort()
+- Stream sorted()
+- Comparator chaining
+- Method reference based sorting
+
+Examples:
+
+- Comparator.comparing(Employee::getName)
+- Comparator.comparingDouble(Employee::getSalary)
+
+Backend engineering perspective:
+
+Collection ordering directly impacts backend analytics pipelines, reporting systems and API response consistency.
+
 ## Collection Selection Strategy
 
 Choose collections based on:
