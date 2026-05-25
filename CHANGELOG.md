@@ -109,6 +109,8 @@ Architecture Improvements:
 - Python repository migration into languages ownership
 - Python backend engineering consolidation
 - Python testing foundation consolidation
+- Collection engineering ownership moved under Java module
+- Repository ownership alignment improvements
 
 ### Quality Improvements
 
