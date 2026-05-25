@@ -20,6 +20,10 @@ Hibernate is one of the most widely used JPA implementations.
 - EntityManager vs Session
 - Persistence Context
 - Entity lifecycle
+- Entity object requirements
+- EntityManagerFactory
+- Session thread safety
+- SessionFactory thread safety
 
 ### Transaction Management
 
@@ -46,6 +50,8 @@ Hibernate is one of the most widely used JPA implementations.
 - Pagination
 - Projection
 - Restrictions
+- DetachedCriteria
+- save() vs saveOrUpdate()
 - get() vs load()
 
 ### Performance Optimization
@@ -55,6 +61,7 @@ Hibernate is one of the most widely used JPA implementations.
 - EntityGraph
 - Batch fetching
 - Lazy vs Eager loading
+- Sorted vs Ordered collections
 - Connection pooling
 - Query optimization
 
@@ -101,6 +108,14 @@ Common interview topics:
 - Persistence Context
 - First Level vs Second Level Cache
 - get() vs load()
+- save() vs saveOrUpdate()
+- Session vs SessionFactory
+- HQL
+- Restrictions vs DetachedCriteria
+- EntityManagerFactory
+- Session thread safety
+- SessionFactory thread safety
+- Sorted vs Ordered collections
 - FetchType.LAZY vs FetchType.EAGER
 - N+1 SELECT problem
 - Transaction propagation
@@ -115,4 +130,5 @@ Build practical understanding for:
 - Production engineering
 - Microservices persistence design
 - Database performance optimization
+- Reliable persistence architecture
 - Scalable backend architecture

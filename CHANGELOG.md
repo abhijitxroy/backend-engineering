@@ -2,7 +2,7 @@
 
 ## v1.4.0 (Unreleased)
 
-Release Focus: Hibernate Expansion, Testing Engineering Expansion, Messaging Engineering Expansion and Backend Persistence Engineering
+Release Focus: Hibernate Expansion, Testing Engineering Expansion, Messaging Engineering Expansion, Database Engineering Expansion and Backend Persistence Engineering
 
 ### Added
 
@@ -99,6 +99,41 @@ Examples Added:
 - Idempotent Consumer example
 - Kafka delivery confirmation discussions
 
+#### Database Engineering Expansion
+
+Added:
+
+- SQL engineering discussions
+- MongoDB engineering discussions
+- Database indexing discussions
+- Connection pool engineering coverage
+- Distributed database discussions
+- Query optimization discussions
+- Database backup discussions
+- Distributed consistency discussions
+- MongoDB lookup and match discussions
+- Composite index discussions
+- Replication discussions
+- Sharding discussions
+- Transaction engineering discussions
+
+Production Engineering Coverage:
+
+- Connection optimization
+- Replica topology planning
+- Distributed recovery discussions
+- Data consistency validation
+- Query execution validation
+- Connection leak troubleshooting
+
+Examples Added:
+
+- SQL examples
+- MongoDB examples
+- Transaction discussions
+- Connection pool discussions
+- Distributed database discussions
+
 ### Repository Improvements
 
 - Testing module expansion
@@ -108,6 +143,9 @@ Examples Added:
 - Messaging engineering coverage expansion
 - Kafka knowledge consolidation
 - Messaging learning path improvements
+- Database engineering coverage expansion
+- Database knowledge consolidation
+- Database learning path improvements
 
 ### Quality Improvements
 
@@ -119,6 +157,9 @@ Examples Added:
 - Reliability engineering discussions expansion
 - Messaging reliability coverage improvements
 - Kafka backend engineering coverage expansion
+- Database engineering foundation expansion
+- Distributed persistence coverage improvements
+- Database scalability engineering discussions
 
 ## v1.3.0
 

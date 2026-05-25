@@ -1,14 +1,12 @@
 # Database
 
-Database concepts and backend engineering database discussions organized for application development, distributed systems and production engineering scenarios.
+Database concepts and backend engineering discussions organized for scalable backend systems, distributed systems and production engineering scenarios.
 
 ## Areas
 
-### Fundamentals
+### Database Fundamentals
 
-Database foundation topics are maintained inside:
-
-- database-fundamentals.md
+Database foundation topics are organized across dedicated modules.
 
 Coverage includes:
 
@@ -17,13 +15,16 @@ Coverage includes:
 - Transactions
 - Isolation Levels
 - Indexing
-- Normalization
 - Query Optimization
-- CAP Theorem
+- Normalization
 - Locking
 - MVCC
 - Replication
 - Partitioning
+- Distributed Database Concepts
+- Connection Pool Engineering
+- SQL Engineering
+- MongoDB Engineering
 
 ### Backend Engineering Perspective
 
@@ -38,16 +39,33 @@ Examples:
 - Sharding
 - Backup Strategy
 - Disaster Recovery
-- Distributed Systems Discussions
+- Distributed Consistency
+- Fault Tolerance
+- Database Reliability
 
 ## Repository Goal
 
-Organize database engineering concepts in a maintainable structure covering backend engineering fundamentals, production discussions and scalability considerations.
+Organize database engineering concepts in a maintainable structure covering backend engineering fundamentals, distributed systems discussions, production engineering considerations and scalability patterns.
 
 ## Structure
 
 ```text
 database/
 ├── README.md
+├── mongodb/
+│   └── README.md
+├── sql/
+│   └── README.md
+├── indexing/
+│   └── README.md
+├── transaction/
+│   └── README.md
+├── connection-pool/
+│   └── README.md
+├── distributed-database/
+│   └── README.md
+├── hibernate/
+│   ├── README.md
+│   └── examples/
 └── database-fundamentals.md
 ```
