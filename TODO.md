@@ -240,6 +240,24 @@ Completed:
 - Stream API
 - Optional
 - Comparator
+ - JDK8 Functional Programming
+ - Lambda Expression
+ - Functional Interface
+ - Stream Problem Solving
+ - Optional API
+ - Parallel Stream Processing
+ - Collection Transformation
+ - Consumer Functional Interface
+ - Predicate Functional Interface
+ - Supplier Functional Interface
+ - Function Functional Interface
+ - Duplicate Element Detection
+ - First Non Repeat Element
+ - GroupBy Processing
+ - PartitionBy Processing
+ - Reduce Aggregation
+ - FlatMap Transformation
+ - Employee Stream Problems
 
 Next Improvements:
 
@@ -249,6 +267,9 @@ P1
 - Lambda Expressions Deep Dive
 - Exception Handling Deep Dive
 - Java IO and NIO
+ - Stream API Deep Dive
+ - Optional API Deep Dive
+ - Functional Programming Patterns
 
 P2
 
@@ -256,6 +277,8 @@ P2
 - Class Loader Mechanism
 - Reflection API
 - Concurrency Utilities
+ - Collector Framework Deep Dive
+ - Stream Performance Optimization
 
 P3
 
@@ -283,6 +306,9 @@ Future Enhancements:
 - Pattern Matching
 - Record Classes
 - Sealed Classes
+ - Structured Stream Benchmarking
+ - Custom Functional Interface Examples
+ - Advanced Collector Patterns
 
 ## Microservices
 

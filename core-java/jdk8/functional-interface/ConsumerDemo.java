@@ -4,7 +4,7 @@
 import java.util.List;
 import java.util.function.Consumer;
 
-public class ConsumerFI {
+public class ConsumerDemo {
     // Backend engineering usage:
     // Logging pipelines
     // Event processing

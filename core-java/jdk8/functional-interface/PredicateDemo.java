@@ -9,7 +9,7 @@ import java.util.function.Predicate;
 // Validation pipelines
 // Business rule processing
 
-public class PredicateFI implements Predicate<Integer>{
+public class PredicateDemo implements Predicate<Integer>{
    
     @Override
     public boolean test(Integer value) {
@@ -19,7 +19,7 @@ public class PredicateFI implements Predicate<Integer>{
     public static void main(String[] args) {
 
         // Way-1
-        Predicate<Integer> predicate1 = new PredicateFI();
+        Predicate<Integer> predicate1 = new PredicateDemo();
         System.out.println("Predicate1 Result: "+predicate1.test(10));
 
         // Way-2
